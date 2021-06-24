@@ -1,0 +1,124 @@
+.button{
+    text-decoration: none;
+    color: black;
+    font-size: 1.3rem;
+    padding: 5px 10px;
+    
+}
+.heder_button{
+
+    position: relative;
+    margin-top: 25px;
+}
+
+
+.button:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.nav-font{
+    float: right;
+    padding-top: 20px;
+}
+.nav-font>ul>li{
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+    padding-right: 20px;
+   
+}
+
+.nav-font>ul>li>a{
+    color: black;
+}
+
+.slider-gif>img{
+    width: 100%;
+    height: auto;
+}
+
+.slider-video>video{
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.cou-text{
+    font-size: 1.5rem;
+    color: black;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.offer-pic{
+    height: auto;
+    width: 100%;
+}
+
+.collection_image{
+    height: auto;
+    width: 100%;
+}
+
+
+.swim-season{
+    width: 100%;
+    height: auto;
+}
+.win-pic{
+    height: auto;
+    width: 100%;
+}
+
+.footer-nav-text{
+    color: black;
+    text-transform: uppercase;
+}
+
+.footer-nav>ul{
+    margin-left: -36px;
+    position: relative;
+    
+}
+.footer-nav>ul>li{
+    list-style-type: none;
+    padding-top: 10px;
+    
+}
+
+.footer-nav>ul>li>a{
+    color:black;
+    font-size: 0.9rem;
+    text-transform:capitalize;
+}
+
+.footer-nav-h{
+    color: black;
+    text-transform: capitalize;
+    font-size: 1rem;
+    text-align: justify;
+    font-weight: bold;
+    line-height: 1.5rem;
+    padding-top: 10px;
+}
+
+.social_icon>ul>li{
+    list-style-type: none;
+    float: left;
+    padding-left: 15px;
+}
+
+
+.social_icon>ul>li:first-child{
+    padding-left: 0px;
+}
+
+.social_icon>ul>li>a{
+    color: black;
+}
+
+
+.social_icon>ul>li>a:hover{
+    color: #493F3F;
+}
